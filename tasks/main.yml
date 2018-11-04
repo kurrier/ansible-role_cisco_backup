@@ -6,6 +6,7 @@
   register: cisco_uuid
   delegate_to: localhost
   run_once: true
+  when: cisco_backup|bool == true
 
 - set_fact:
     cisco_backup_date: "{{ lookup('pipe', 'date +%Y/%m/%d') }}"
