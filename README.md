@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/kurrier/ansible-role_cisco_backup.svg?branch=master)](https://travis-ci.org/kurrier/ansible-role_cisco_backup)
-
-Ansible Role: cisco_backup
+Ansible Role: cisco_backup [![Build Status](https://travis-ci.org/kurrier/ansible-role_cisco_backup.svg?branch=master)](https://travis-ci.org/kurrier/ansible-role_cisco_backup)
 =========
 
 Cisco Backup Control for ASA and IOS
